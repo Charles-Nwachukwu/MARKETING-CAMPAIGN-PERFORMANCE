@@ -20,4 +20,28 @@ Tools used:
 * Power BI
 
 # Data Collection
-Data was aggregated from multiple sources, including category, marketing channel, clicks, impressions, and conversions. This ensured a comprehensive view of revenue performance, 
+Data was aggregated from multiple sources including: Ad spent, category and product view, marketing channel, clicks, impressions, and conversions. This ensured a comprehensive view of revenue performance, sum of ROI, total Ad spent performance. 
+
+# Data Cleaning & Preparation
+To improve data quality and reliability, the following steps were preformed:
+* Removal of duplicate transaction and reservation records
+* Correction of inconsistent date and time formats
+* Standardization of category and product names
+* Validation of revenue figures to eliminate entry errors
+
+# Data Transformation & Processing
+To support deeper analysis, several transformation were applied:
+* Creation of a dedicated Date Table: in Power BI for campaign date analysis
+* Breakdown of campaign dates: into Year, Month, Day, Month Number, and Quarter
+* Organization of date fields: to enable chronological sorting and time-based analysis
+
+# Calculated Fields & DAX Measures
+Within the BI environment, calculated metrics were developed to quality performance, including:
+* Total Clicks
+* Total Impression
+* Total Revenue
+* Conversion Rate (CR%)
+* Total Conversion
+* ROI%
+* Total Ad Spend
+* CTR%
