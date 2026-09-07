@@ -15,3 +15,9 @@ Stakeholders seek to address challenges such as:
 * Evaluating time based trend for clicks, conversion, ROI and ad Spend.
   
 # Tools & Methodology
+Tools used:
+* Power Query
+* Power BI
+
+# Data Collection
+Data was aggregated from multiple sources, including category, marketing channel, clicks, impressions, and conversions. This ensured a comprehensive view of revenue performance, 
