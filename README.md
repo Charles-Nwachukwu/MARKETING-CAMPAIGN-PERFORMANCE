@@ -44,4 +44,7 @@ Within the BI environment, calculated metrics were developed to quality performa
 * Total Conversion
 * ROI%
 * Total Ad Spend
-* CTR%
+* CTR%`
+
+# Data Modeling
+
