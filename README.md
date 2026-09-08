@@ -47,4 +47,6 @@ Within the BI environment, calculated metrics were developed to quality performa
 * CTR%`
 
 # Data Modeling
+A Relational data model was created here between the marketing table and the date table (Many-One-Relationship)
+
 
