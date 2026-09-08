@@ -48,5 +48,4 @@ Within the BI environment, calculated metrics were developed to quality performa
 
 # Data Modeling
 A Relational data model was created here between the marketing table and the date table (Many-One-Relationship)
-
-
+![Marketing Campaign Data Model](Marketing%20Campaign%20Data%20Model.png)
