@@ -46,6 +46,28 @@ Within the BI environment, calculated metrics were developed to quality performa
 * Total Ad Spend
 * CTR%`
 
+# Data Validation
+Cross-checks were conducted to ensure:
+* Revenue totals matched transactional aggregates
+* Checking that all monetary columns used a consistent currency, ensuring accurate  calculations and comparisons during analysis
+* KPI outputs were consistent across filters and segments
+
+This validation process ensured analytical integrity
+
 # Data Modeling
 A Relational data model was created here between the marketing table and the date table (Many-One-Relationship)
 ![Marketing Campaign Data Model](Marketing%20Campaign%20Data%20Model.png)
+
+# Data Visualization
+Built a one page interactive dashboards that answers stakeholders questions in detail.
+Interactive dashboards were developed to present:
+* Clicks vs impression performance
+* Top marketing channel by Ad spent
+* Time based trend for ROI, clicks, conversion, and ad spent
+
+The visualization layers was designed to support executive-level decision making through clear KPIs and comparative views.
+
+# Exploratory Data Analysis(EDA)
+Include:
+* 
+
